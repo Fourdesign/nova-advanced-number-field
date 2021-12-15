@@ -1,6 +1,7 @@
 {
-    "name": "simplesquid/nova-advanced-number-field",
+    "name": "fourdesign/nova-advanced-number-field",
     "description": "A Laravel Nova field which adds additional functionality to the default Number field.",
+    "version": "2.0.1",
     "keywords": [
         "simplesquid",
         "laravel",
